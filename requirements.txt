@@ -1,0 +1,6 @@
+ccxt
+openai
+pyTelegramBotAPI
+pandas
+pandas-ta
+python-dotenv
